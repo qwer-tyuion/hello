@@ -1,6 +1,6 @@
 # hello
 在此库中练习编程代码
-#include<studio>
+#include<stdio.h>
 
 int main()
 {
